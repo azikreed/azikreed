@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Node JS
+- 🔭 **I’m currently working on Node JS**
 - 🌱 I’m currently learning Telegram Bot
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about Backend Development
