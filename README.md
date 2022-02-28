@@ -4,7 +4,7 @@
 <h3> 🌱 I’m currently learning Telegram Bot
 <h3> 👯 I’m looking to collaborate on github
 <h3> 💬 Ask me about Backend Development
-<h3> 📫 How to reach me: ![Telegram](https://t.me/azikreed)
+<h3> 📫 How to reach me: </h3> [Telegram](https://t.me/azikreed)
 <h3> ⚡ Fun fact: My secondname is Aziz :)
 <br>
 <br>
