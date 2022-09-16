@@ -36,6 +36,11 @@
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=azikreed&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
+  
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" />
+</div>
+  
 <br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=azikreed&theme=dark&background=151515">
 <br>
