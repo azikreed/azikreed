@@ -34,9 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
 </div>
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=azikreed&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<br>
   
   <div align="center">
   <img src="https://raw.githubusercontent.com/azikreed/azikreed/output/github-contribution-grid-snake.svg" />
